@@ -25,6 +25,16 @@ How does gene expression differ between early-stage and advanced breast cancer t
 
 ---
 
+## Ethics & Responsible Use of Genomic Data
+
+This project uses publicly available, de-identified genomic datasets. While no personal identifiers are present, genomic data remains inherently sensitive and requires responsible interpretation.
+
+All analyses are exploratory and should not be interpreted as clinically actionable findings. Gene expression patterns are influenced by biological variability, technical noise, and population diversity.
+
+This work reflects awareness of the ethical considerations involved in computational genomics, particularly regarding data privacy, responsible interpretation, and limitations in clinical translation.
+
+---
+
 ## Tools Used
 - Python
 - Pandas
